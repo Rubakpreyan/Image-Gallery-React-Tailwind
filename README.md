@@ -6,7 +6,7 @@ This is a Basic Gallery Template where we can search The required photo field an
 - Likes
 - Downloads
 
-This is Temaplate is build using ReactJs along with Tailwind Css Framework
+This is Template is build using ReactJs along with Tailwind Css Framework
 
 ## API's used
 
